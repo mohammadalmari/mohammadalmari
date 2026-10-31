@@ -1,18 +1,19 @@
 # Hi, I'm Mohammad 👋
 
-I build and deploy AI systems into regulated environments — Saudi ministries,
-regulators and national utilities — including air-gapped servers and
-data-residency-restricted setups.
+I turn real-world workflows into AI-powered products — from the first
+stakeholder conversation to deployment and handover. My clients have included
+ministries, regulators and national utilities, so I'm used to tricky
+constraints: data that can't leave the country, or servers with no internet at all.
 
-- 🏛️ Shipped 7+ production platforms, from client scoping to handover
+- 🚀 Shipped 7+ production platforms end to end
 - 🤖 Production LLM agents: LangGraph, multi-provider, streaming
-- 🔒 SSO/OIDC, RBAC, encryption at rest, PDPL data residency, offline deploys
+- 🔒 SSO/OIDC, RBAC, encryption at rest, data residency, offline deployments
 - 🌍 Bilingual Arabic/English (RTL) products
 
 ### 🔨 Currently building
-- An Arabic/English document agent with cited answers and an eval suite in CI
-- An MCP toolkit connecting LLMs to Jira, Postgres and email, with permissions and audit logs
+- An Arabic/English document assistant with cited answers and an automated eval suite
+- An MCP toolkit that connects LLMs to Jira, Postgres and email, with permissions and audit logs
 
-**Stack:** Python · Django · FastAPI · LangGraph · Next.js · TypeScript · Postgres · Docker · Azure
+**Stack:** Python · TypeScript · Django · FastAPI · LangGraph · React · Next.js · Node.js · PostgreSQL · Docker · Azure
 
-📫 [LinkedIn](https://www.linkedin.com/in/mohammadalmari/) · mohammadalmarei@outlook.com
+📫 [LinkedIn](https://linkedin.com/in/mohammadalmari) · mohammadalmarei@outlook.com
